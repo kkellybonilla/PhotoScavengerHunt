@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='photoscavengerhunt-portrait.gif' title='App Walkthrough (Portrait)' width='100' alt='App Walkthrough (Portrait)' />
+<img src='photoscavengerhunt-landscape.gif' title='App Walkthrough (Landscape)' width='100' alt='App Walkthrough (Landscape)' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
